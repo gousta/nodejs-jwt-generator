@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-jwt-generator",
+  "version": "1.0.0",
+  "description": "A node.js JWT (JSON Web Token) Generator for Developers",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gousta/nodejs-jwt-generator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "jwt",
+    "json",
+    "web",
+    "token",
+    "generator",
+    "developers"
+  ],
+  "author": "Stratos Giouldasis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gousta/nodejs-jwt-generator/issues"
+  },
+  "homepage": "https://github.com/gousta/nodejs-jwt-generator#readme",
+  "dependencies": {
+    "jsonwebtoken": "^5.7.0"
+  }
+}
